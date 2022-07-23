@@ -1,0 +1,18 @@
+/*** Cryptolog v1.0 Build ***/
+/*** Auteur: Ramy Chmak ***/
+/*** 20 Juillet 2015 ***/
+
+Cette version du logiciel n'est qu'une version de démonstration, elle manque encore plusieurs fonctionalitées.
+La version actuelle est pour les débutants, la version profesionelle sera mis en ligne dès que possible.
+Cette version est en mode console, une version avec une interface graphique en cours de préparation.
+En attendant la version distribuable, veuillez interprétez Cryptolog avec python3 et Stegano avec Python2.
+Si Python n'est pas installé vous devez l'installer, et de même pour les modules "stepic" et "Image".
+Lorsqu'on demande de choisir une catégorie, un module ..., tapez son numéro (exemple: 3).
+Lorsqu'on vous pose une question avec "[o/n]" à la fin, tapez 'o' pour oui ou 'n' pour non.
+
+Lisez la fiche du projet et consultez le poster pour plus de détails sur le logiciel et sa conception.
+
+Des mises à jour de Cryptolog seront mis en ligne régilièrement.
+
+Site officiel: www.cryptolog.besaba.com
+Pour plus d'informations: ramymessi10@gmail.com
